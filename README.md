@@ -1,3 +1,7 @@
+**2021년도 1학기 데이터분석캡스톤디자인**
+ - 주식예측프로그램 베이스 코드
+ - 오리지널 코드:https://github.com/huseinzol05/Stock-Prediction-Models
+
 <p align="center">
     <a href="#readme">
         <img alt="logo" width="50%" src="output/evolution-strategy.png">
